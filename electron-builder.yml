@@ -1,5 +1,5 @@
 appId: 'helioslauncher'
-productName: 'Helios Launcher'
+productName: '새움마을 런처'
 artifactName: '${productName}-setup-${version}.${ext}'
 
 copyright: 'Copyright © 2018-2026 Daniel Scalzi'
